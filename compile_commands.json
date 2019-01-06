@@ -1,0 +1,247 @@
+[
+{
+  "directory": "/home/teja/MeshSegmentation/src",
+  "command": "/usr/bin/c++   -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3   -std=c++11 -Wall -O0 -ggdb   -o CMakeFiles/HierarchicalFaceCluster-lib.dir/DualGraph.cpp.o -c /home/teja/MeshSegmentation/src/DualGraph.cpp",
+  "file": "/home/teja/MeshSegmentation/src/DualGraph.cpp"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test",
+  "command": "/usr/bin/c++   -I/home/teja/MeshSegmentation/test -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -isystem /home/teja/software/libigl/shared/cmake/../../include -isystem /home/teja/software/libigl/shared/cmake/../../external/eigen -I/home/teja/software/libigl/external/glfw/include   -std=c++11 -Wall -O0 -ggdb -I/home/teja/software/libigl/include/   -std=gnu++11 -o CMakeFiles/HFC_test.dir/test_hello.cpp.o -c /home/teja/MeshSegmentation/test/test_hello.cpp",
+  "file": "/home/teja/MeshSegmentation/test/test_hello.cpp"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test",
+  "command": "/usr/bin/c++  -DTINYXML2_EXPORT -I/home/teja/MeshSegmentation/test -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include   -std=c++11 -Wall -O0 -ggdb -I/home/teja/software/libigl/include/   -o CMakeFiles/tinyxml2.dir/home/teja/software/libigl/external/tinyxml2/tinyxml2.cpp.o -c /home/teja/software/libigl/external/tinyxml2/tinyxml2.cpp",
+  "file": "/home/teja/software/libigl/external/tinyxml2/tinyxml2.cpp"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/CoMISo",
+  "command": "/usr/bin/c++  -DINCLUDE_TEMPLATES -I/home/teja/MeshSegmentation/test/CoMISo -I/home/teja/software/libigl/external/CoMISo -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/CoMISo/.. -I/home/teja/software/libigl/external/CoMISo/../eigen -I/home/teja/software/libigl/external/CoMISo/ext/gmm-4.2/include   -std=c++11 -Wall -O0 -ggdb -I/home/teja/software/libigl/include/   -o CMakeFiles/CoMISo.dir/Solver/EigenLDLTSolver.cc.o -c /home/teja/software/libigl/external/CoMISo/Solver/EigenLDLTSolver.cc",
+  "file": "/home/teja/software/libigl/external/CoMISo/Solver/EigenLDLTSolver.cc"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/CoMISo",
+  "command": "/usr/bin/c++  -DINCLUDE_TEMPLATES -I/home/teja/MeshSegmentation/test/CoMISo -I/home/teja/software/libigl/external/CoMISo -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/CoMISo/.. -I/home/teja/software/libigl/external/CoMISo/../eigen -I/home/teja/software/libigl/external/CoMISo/ext/gmm-4.2/include   -std=c++11 -Wall -O0 -ggdb -I/home/teja/software/libigl/include/   -o CMakeFiles/CoMISo.dir/Solver/MISolver.cc.o -c /home/teja/software/libigl/external/CoMISo/Solver/MISolver.cc",
+  "file": "/home/teja/software/libigl/external/CoMISo/Solver/MISolver.cc"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/CoMISo",
+  "command": "/usr/bin/c++  -DINCLUDE_TEMPLATES -I/home/teja/MeshSegmentation/test/CoMISo -I/home/teja/software/libigl/external/CoMISo -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/CoMISo/.. -I/home/teja/software/libigl/external/CoMISo/../eigen -I/home/teja/software/libigl/external/CoMISo/ext/gmm-4.2/include   -std=c++11 -Wall -O0 -ggdb -I/home/teja/software/libigl/include/   -o CMakeFiles/CoMISo.dir/Solver/ConstrainedSolver.cc.o -c /home/teja/software/libigl/external/CoMISo/Solver/ConstrainedSolver.cc",
+  "file": "/home/teja/software/libigl/external/CoMISo/Solver/ConstrainedSolver.cc"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/CoMISo",
+  "command": "/usr/bin/c++  -DINCLUDE_TEMPLATES -I/home/teja/MeshSegmentation/test/CoMISo -I/home/teja/software/libigl/external/CoMISo -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/CoMISo/.. -I/home/teja/software/libigl/external/CoMISo/../eigen -I/home/teja/software/libigl/external/CoMISo/ext/gmm-4.2/include   -std=c++11 -Wall -O0 -ggdb -I/home/teja/software/libigl/include/   -o CMakeFiles/CoMISo.dir/Solver/IterativeSolverT.cc.o -c /home/teja/software/libigl/external/CoMISo/Solver/IterativeSolverT.cc",
+  "file": "/home/teja/software/libigl/external/CoMISo/Solver/IterativeSolverT.cc"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/CoMISo",
+  "command": "/usr/bin/c++  -DINCLUDE_TEMPLATES -I/home/teja/MeshSegmentation/test/CoMISo -I/home/teja/software/libigl/external/CoMISo -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/CoMISo/.. -I/home/teja/software/libigl/external/CoMISo/../eigen -I/home/teja/software/libigl/external/CoMISo/ext/gmm-4.2/include   -std=c++11 -Wall -O0 -ggdb -I/home/teja/software/libigl/include/   -o CMakeFiles/CoMISo.dir/Solver/GMM_Tools.cc.o -c /home/teja/software/libigl/external/CoMISo/Solver/GMM_Tools.cc",
+  "file": "/home/teja/software/libigl/external/CoMISo/Solver/GMM_Tools.cc"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/lim",
+  "command": "/usr/bin/c++   -I/home/teja/MeshSegmentation/test/lim -I/home/teja/software/libigl/external/lim -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/lim/../eigen -I/home/teja/software/libigl/external/lim/../../include -isystem /home/teja/software/libigl/shared/cmake/../../include -isystem /home/teja/software/libigl/shared/cmake/../../external/eigen   -std=c++11 -Wall -O0 -ggdb -I/home/teja/software/libigl/include/   -std=gnu++11 -o CMakeFiles/lim.dir/Dirichlet_LIMSolver2D.cpp.o -c /home/teja/software/libigl/external/lim/Dirichlet_LIMSolver2D.cpp",
+  "file": "/home/teja/software/libigl/external/lim/Dirichlet_LIMSolver2D.cpp"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/lim",
+  "command": "/usr/bin/c++   -I/home/teja/MeshSegmentation/test/lim -I/home/teja/software/libigl/external/lim -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/lim/../eigen -I/home/teja/software/libigl/external/lim/../../include -isystem /home/teja/software/libigl/shared/cmake/../../include -isystem /home/teja/software/libigl/shared/cmake/../../external/eigen   -std=c++11 -Wall -O0 -ggdb -I/home/teja/software/libigl/include/   -std=gnu++11 -o CMakeFiles/lim.dir/Dirichlet_LIMSolver3D.cpp.o -c /home/teja/software/libigl/external/lim/Dirichlet_LIMSolver3D.cpp",
+  "file": "/home/teja/software/libigl/external/lim/Dirichlet_LIMSolver3D.cpp"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/lim",
+  "command": "/usr/bin/c++   -I/home/teja/MeshSegmentation/test/lim -I/home/teja/software/libigl/external/lim -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/lim/../eigen -I/home/teja/software/libigl/external/lim/../../include -isystem /home/teja/software/libigl/shared/cmake/../../include -isystem /home/teja/software/libigl/shared/cmake/../../external/eigen   -std=c++11 -Wall -O0 -ggdb -I/home/teja/software/libigl/include/   -std=gnu++11 -o CMakeFiles/lim.dir/GreenStrain_LIMSolver2D.cpp.o -c /home/teja/software/libigl/external/lim/GreenStrain_LIMSolver2D.cpp",
+  "file": "/home/teja/software/libigl/external/lim/GreenStrain_LIMSolver2D.cpp"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/lim",
+  "command": "/usr/bin/c++   -I/home/teja/MeshSegmentation/test/lim -I/home/teja/software/libigl/external/lim -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/lim/../eigen -I/home/teja/software/libigl/external/lim/../../include -isystem /home/teja/software/libigl/shared/cmake/../../include -isystem /home/teja/software/libigl/shared/cmake/../../external/eigen   -std=c++11 -Wall -O0 -ggdb -I/home/teja/software/libigl/include/   -std=gnu++11 -o CMakeFiles/lim.dir/GreenStrain_LIMSolver3D.cpp.o -c /home/teja/software/libigl/external/lim/GreenStrain_LIMSolver3D.cpp",
+  "file": "/home/teja/software/libigl/external/lim/GreenStrain_LIMSolver3D.cpp"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/lim",
+  "command": "/usr/bin/c++   -I/home/teja/MeshSegmentation/test/lim -I/home/teja/software/libigl/external/lim -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/lim/../eigen -I/home/teja/software/libigl/external/lim/../../include -isystem /home/teja/software/libigl/shared/cmake/../../include -isystem /home/teja/software/libigl/shared/cmake/../../external/eigen   -std=c++11 -Wall -O0 -ggdb -I/home/teja/software/libigl/include/   -std=gnu++11 -o CMakeFiles/lim.dir/Identity_LIMSolver2D.cpp.o -c /home/teja/software/libigl/external/lim/Identity_LIMSolver2D.cpp",
+  "file": "/home/teja/software/libigl/external/lim/Identity_LIMSolver2D.cpp"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/lim",
+  "command": "/usr/bin/c++   -I/home/teja/MeshSegmentation/test/lim -I/home/teja/software/libigl/external/lim -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/lim/../eigen -I/home/teja/software/libigl/external/lim/../../include -isystem /home/teja/software/libigl/shared/cmake/../../include -isystem /home/teja/software/libigl/shared/cmake/../../external/eigen   -std=c++11 -Wall -O0 -ggdb -I/home/teja/software/libigl/include/   -std=gnu++11 -o CMakeFiles/lim.dir/Identity_LIMSolver3D.cpp.o -c /home/teja/software/libigl/external/lim/Identity_LIMSolver3D.cpp",
+  "file": "/home/teja/software/libigl/external/lim/Identity_LIMSolver3D.cpp"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/lim",
+  "command": "/usr/bin/c++   -I/home/teja/MeshSegmentation/test/lim -I/home/teja/software/libigl/external/lim -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/lim/../eigen -I/home/teja/software/libigl/external/lim/../../include -isystem /home/teja/software/libigl/shared/cmake/../../include -isystem /home/teja/software/libigl/shared/cmake/../../external/eigen   -std=c++11 -Wall -O0 -ggdb -I/home/teja/software/libigl/include/   -std=gnu++11 -o CMakeFiles/lim.dir/Laplacian_LIMSolver2D.cpp.o -c /home/teja/software/libigl/external/lim/Laplacian_LIMSolver2D.cpp",
+  "file": "/home/teja/software/libigl/external/lim/Laplacian_LIMSolver2D.cpp"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/lim",
+  "command": "/usr/bin/c++   -I/home/teja/MeshSegmentation/test/lim -I/home/teja/software/libigl/external/lim -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/lim/../eigen -I/home/teja/software/libigl/external/lim/../../include -isystem /home/teja/software/libigl/shared/cmake/../../include -isystem /home/teja/software/libigl/shared/cmake/../../external/eigen   -std=c++11 -Wall -O0 -ggdb -I/home/teja/software/libigl/include/   -std=gnu++11 -o CMakeFiles/lim.dir/Laplacian_LIMSolver3D.cpp.o -c /home/teja/software/libigl/external/lim/Laplacian_LIMSolver3D.cpp",
+  "file": "/home/teja/software/libigl/external/lim/Laplacian_LIMSolver3D.cpp"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/lim",
+  "command": "/usr/bin/c++   -I/home/teja/MeshSegmentation/test/lim -I/home/teja/software/libigl/external/lim -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/lim/../eigen -I/home/teja/software/libigl/external/lim/../../include -isystem /home/teja/software/libigl/shared/cmake/../../include -isystem /home/teja/software/libigl/shared/cmake/../../external/eigen   -std=c++11 -Wall -O0 -ggdb -I/home/teja/software/libigl/include/   -std=gnu++11 -o CMakeFiles/lim.dir/LGARAP_LIMSolver2D.cpp.o -c /home/teja/software/libigl/external/lim/LGARAP_LIMSolver2D.cpp",
+  "file": "/home/teja/software/libigl/external/lim/LGARAP_LIMSolver2D.cpp"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/lim",
+  "command": "/usr/bin/c++   -I/home/teja/MeshSegmentation/test/lim -I/home/teja/software/libigl/external/lim -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/lim/../eigen -I/home/teja/software/libigl/external/lim/../../include -isystem /home/teja/software/libigl/shared/cmake/../../include -isystem /home/teja/software/libigl/shared/cmake/../../external/eigen   -std=c++11 -Wall -O0 -ggdb -I/home/teja/software/libigl/include/   -std=gnu++11 -o CMakeFiles/lim.dir/LGARAP_LIMSolver3D.cpp.o -c /home/teja/software/libigl/external/lim/LGARAP_LIMSolver3D.cpp",
+  "file": "/home/teja/software/libigl/external/lim/LGARAP_LIMSolver3D.cpp"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/lim",
+  "command": "/usr/bin/c++   -I/home/teja/MeshSegmentation/test/lim -I/home/teja/software/libigl/external/lim -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/lim/../eigen -I/home/teja/software/libigl/external/lim/../../include -isystem /home/teja/software/libigl/shared/cmake/../../include -isystem /home/teja/software/libigl/shared/cmake/../../external/eigen   -std=c++11 -Wall -O0 -ggdb -I/home/teja/software/libigl/include/   -std=gnu++11 -o CMakeFiles/lim.dir/LIMSolver.cpp.o -c /home/teja/software/libigl/external/lim/LIMSolver.cpp",
+  "file": "/home/teja/software/libigl/external/lim/LIMSolver.cpp"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/lim",
+  "command": "/usr/bin/c++   -I/home/teja/MeshSegmentation/test/lim -I/home/teja/software/libigl/external/lim -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/lim/../eigen -I/home/teja/software/libigl/external/lim/../../include -isystem /home/teja/software/libigl/shared/cmake/../../include -isystem /home/teja/software/libigl/shared/cmake/../../external/eigen   -std=c++11 -Wall -O0 -ggdb -I/home/teja/software/libigl/include/   -std=gnu++11 -o CMakeFiles/lim.dir/LIMSolver2D.cpp.o -c /home/teja/software/libigl/external/lim/LIMSolver2D.cpp",
+  "file": "/home/teja/software/libigl/external/lim/LIMSolver2D.cpp"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/lim",
+  "command": "/usr/bin/c++   -I/home/teja/MeshSegmentation/test/lim -I/home/teja/software/libigl/external/lim -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/lim/../eigen -I/home/teja/software/libigl/external/lim/../../include -isystem /home/teja/software/libigl/shared/cmake/../../include -isystem /home/teja/software/libigl/shared/cmake/../../external/eigen   -std=c++11 -Wall -O0 -ggdb -I/home/teja/software/libigl/include/   -std=gnu++11 -o CMakeFiles/lim.dir/LIMSolver3D.cpp.o -c /home/teja/software/libigl/external/lim/LIMSolver3D.cpp",
+  "file": "/home/teja/software/libigl/external/lim/LIMSolver3D.cpp"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/lim",
+  "command": "/usr/bin/c++   -I/home/teja/MeshSegmentation/test/lim -I/home/teja/software/libigl/external/lim -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/lim/../eigen -I/home/teja/software/libigl/external/lim/../../include -isystem /home/teja/software/libigl/shared/cmake/../../include -isystem /home/teja/software/libigl/shared/cmake/../../external/eigen   -std=c++11 -Wall -O0 -ggdb -I/home/teja/software/libigl/include/   -std=gnu++11 -o CMakeFiles/lim.dir/LSConformal_LIMSolver2D.cpp.o -c /home/teja/software/libigl/external/lim/LSConformal_LIMSolver2D.cpp",
+  "file": "/home/teja/software/libigl/external/lim/LSConformal_LIMSolver2D.cpp"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/lim",
+  "command": "/usr/bin/c++   -I/home/teja/MeshSegmentation/test/lim -I/home/teja/software/libigl/external/lim -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/lim/../eigen -I/home/teja/software/libigl/external/lim/../../include -isystem /home/teja/software/libigl/shared/cmake/../../include -isystem /home/teja/software/libigl/shared/cmake/../../external/eigen   -std=c++11 -Wall -O0 -ggdb -I/home/teja/software/libigl/include/   -std=gnu++11 -o CMakeFiles/lim.dir/NMSolver.cpp.o -c /home/teja/software/libigl/external/lim/NMSolver.cpp",
+  "file": "/home/teja/software/libigl/external/lim/NMSolver.cpp"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/lim",
+  "command": "/usr/bin/c++   -I/home/teja/MeshSegmentation/test/lim -I/home/teja/software/libigl/external/lim -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/lim/../eigen -I/home/teja/software/libigl/external/lim/../../include -isystem /home/teja/software/libigl/shared/cmake/../../include -isystem /home/teja/software/libigl/shared/cmake/../../external/eigen   -std=c++11 -Wall -O0 -ggdb -I/home/teja/software/libigl/include/   -std=gnu++11 -o CMakeFiles/lim.dir/Poisson_LIMSolver2D.cpp.o -c /home/teja/software/libigl/external/lim/Poisson_LIMSolver2D.cpp",
+  "file": "/home/teja/software/libigl/external/lim/Poisson_LIMSolver2D.cpp"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/lim",
+  "command": "/usr/bin/c++   -I/home/teja/MeshSegmentation/test/lim -I/home/teja/software/libigl/external/lim -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/lim/../eigen -I/home/teja/software/libigl/external/lim/../../include -isystem /home/teja/software/libigl/shared/cmake/../../include -isystem /home/teja/software/libigl/shared/cmake/../../external/eigen   -std=c++11 -Wall -O0 -ggdb -I/home/teja/software/libigl/include/   -std=gnu++11 -o CMakeFiles/lim.dir/TetrahedronMesh.cpp.o -c /home/teja/software/libigl/external/lim/TetrahedronMesh.cpp",
+  "file": "/home/teja/software/libigl/external/lim/TetrahedronMesh.cpp"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/lim",
+  "command": "/usr/bin/c++   -I/home/teja/MeshSegmentation/test/lim -I/home/teja/software/libigl/external/lim -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/lim/../eigen -I/home/teja/software/libigl/external/lim/../../include -isystem /home/teja/software/libigl/shared/cmake/../../include -isystem /home/teja/software/libigl/shared/cmake/../../external/eigen   -std=c++11 -Wall -O0 -ggdb -I/home/teja/software/libigl/include/   -std=gnu++11 -o CMakeFiles/lim.dir/TriangleMesh.cpp.o -c /home/teja/software/libigl/external/lim/TriangleMesh.cpp",
+  "file": "/home/teja/software/libigl/external/lim/TriangleMesh.cpp"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/lim",
+  "command": "/usr/bin/c++   -I/home/teja/MeshSegmentation/test/lim -I/home/teja/software/libigl/external/lim -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/lim/../eigen -I/home/teja/software/libigl/external/lim/../../include -isystem /home/teja/software/libigl/shared/cmake/../../include -isystem /home/teja/software/libigl/shared/cmake/../../external/eigen   -std=c++11 -Wall -O0 -ggdb -I/home/teja/software/libigl/include/   -std=gnu++11 -o CMakeFiles/lim.dir/UniformLaplacian_LIMSolver2D.cpp.o -c /home/teja/software/libigl/external/lim/UniformLaplacian_LIMSolver2D.cpp",
+  "file": "/home/teja/software/libigl/external/lim/UniformLaplacian_LIMSolver2D.cpp"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/lim",
+  "command": "/usr/bin/c++   -I/home/teja/MeshSegmentation/test/lim -I/home/teja/software/libigl/external/lim -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/lim/../eigen -I/home/teja/software/libigl/external/lim/../../include -isystem /home/teja/software/libigl/shared/cmake/../../include -isystem /home/teja/software/libigl/shared/cmake/../../external/eigen   -std=c++11 -Wall -O0 -ggdb -I/home/teja/software/libigl/include/   -std=gnu++11 -o CMakeFiles/lim.dir/UniformLaplacian_LIMSolver3D.cpp.o -c /home/teja/software/libigl/external/lim/UniformLaplacian_LIMSolver3D.cpp",
+  "file": "/home/teja/software/libigl/external/lim/UniformLaplacian_LIMSolver3D.cpp"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/glad",
+  "command": "/usr/bin/cc  -I/home/teja/MeshSegmentation/test/glad -I/home/teja/software/libigl/external/glad -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include  -g   -o CMakeFiles/glad.dir/src/glad.c.o   -c /home/teja/software/libigl/external/glad/src/glad.c",
+  "file": "/home/teja/software/libigl/external/glad/src/glad.c"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/glfw/src",
+  "command": "/usr/bin/cc -D_GLFW_USE_CONFIG_H -I/home/teja/MeshSegmentation/test/glfw/src -I/home/teja/software/libigl/external/glfw/src -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/glfw/include  -g -fPIC   -Wall -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/context.c.o   -c /home/teja/software/libigl/external/glfw/src/context.c",
+  "file": "/home/teja/software/libigl/external/glfw/src/context.c"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/glfw/src",
+  "command": "/usr/bin/cc -D_GLFW_USE_CONFIG_H -I/home/teja/MeshSegmentation/test/glfw/src -I/home/teja/software/libigl/external/glfw/src -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/glfw/include  -g -fPIC   -Wall -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/init.c.o   -c /home/teja/software/libigl/external/glfw/src/init.c",
+  "file": "/home/teja/software/libigl/external/glfw/src/init.c"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/glfw/src",
+  "command": "/usr/bin/cc -D_GLFW_USE_CONFIG_H -I/home/teja/MeshSegmentation/test/glfw/src -I/home/teja/software/libigl/external/glfw/src -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/glfw/include  -g -fPIC   -Wall -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/input.c.o   -c /home/teja/software/libigl/external/glfw/src/input.c",
+  "file": "/home/teja/software/libigl/external/glfw/src/input.c"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/glfw/src",
+  "command": "/usr/bin/cc -D_GLFW_USE_CONFIG_H -I/home/teja/MeshSegmentation/test/glfw/src -I/home/teja/software/libigl/external/glfw/src -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/glfw/include  -g -fPIC   -Wall -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/monitor.c.o   -c /home/teja/software/libigl/external/glfw/src/monitor.c",
+  "file": "/home/teja/software/libigl/external/glfw/src/monitor.c"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/glfw/src",
+  "command": "/usr/bin/cc -D_GLFW_USE_CONFIG_H -I/home/teja/MeshSegmentation/test/glfw/src -I/home/teja/software/libigl/external/glfw/src -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/glfw/include  -g -fPIC   -Wall -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/vulkan.c.o   -c /home/teja/software/libigl/external/glfw/src/vulkan.c",
+  "file": "/home/teja/software/libigl/external/glfw/src/vulkan.c"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/glfw/src",
+  "command": "/usr/bin/cc -D_GLFW_USE_CONFIG_H -I/home/teja/MeshSegmentation/test/glfw/src -I/home/teja/software/libigl/external/glfw/src -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/glfw/include  -g -fPIC   -Wall -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/window.c.o   -c /home/teja/software/libigl/external/glfw/src/window.c",
+  "file": "/home/teja/software/libigl/external/glfw/src/window.c"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/glfw/src",
+  "command": "/usr/bin/cc -D_GLFW_USE_CONFIG_H -I/home/teja/MeshSegmentation/test/glfw/src -I/home/teja/software/libigl/external/glfw/src -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/glfw/include  -g -fPIC   -Wall -o CMakeFiles/glfw.dir/x11_init.c.o   -c /home/teja/software/libigl/external/glfw/src/x11_init.c",
+  "file": "/home/teja/software/libigl/external/glfw/src/x11_init.c"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/glfw/src",
+  "command": "/usr/bin/cc -D_GLFW_USE_CONFIG_H -I/home/teja/MeshSegmentation/test/glfw/src -I/home/teja/software/libigl/external/glfw/src -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/glfw/include  -g -fPIC   -Wall -o CMakeFiles/glfw.dir/x11_monitor.c.o   -c /home/teja/software/libigl/external/glfw/src/x11_monitor.c",
+  "file": "/home/teja/software/libigl/external/glfw/src/x11_monitor.c"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/glfw/src",
+  "command": "/usr/bin/cc -D_GLFW_USE_CONFIG_H -I/home/teja/MeshSegmentation/test/glfw/src -I/home/teja/software/libigl/external/glfw/src -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/glfw/include  -g -fPIC   -Wall -o CMakeFiles/glfw.dir/x11_window.c.o   -c /home/teja/software/libigl/external/glfw/src/x11_window.c",
+  "file": "/home/teja/software/libigl/external/glfw/src/x11_window.c"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/glfw/src",
+  "command": "/usr/bin/cc -D_GLFW_USE_CONFIG_H -I/home/teja/MeshSegmentation/test/glfw/src -I/home/teja/software/libigl/external/glfw/src -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/glfw/include  -g -fPIC   -Wall -o CMakeFiles/glfw.dir/xkb_unicode.c.o   -c /home/teja/software/libigl/external/glfw/src/xkb_unicode.c",
+  "file": "/home/teja/software/libigl/external/glfw/src/xkb_unicode.c"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/glfw/src",
+  "command": "/usr/bin/cc -D_GLFW_USE_CONFIG_H -I/home/teja/MeshSegmentation/test/glfw/src -I/home/teja/software/libigl/external/glfw/src -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/glfw/include  -g -fPIC   -Wall -o CMakeFiles/glfw.dir/posix_time.c.o   -c /home/teja/software/libigl/external/glfw/src/posix_time.c",
+  "file": "/home/teja/software/libigl/external/glfw/src/posix_time.c"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/glfw/src",
+  "command": "/usr/bin/cc -D_GLFW_USE_CONFIG_H -I/home/teja/MeshSegmentation/test/glfw/src -I/home/teja/software/libigl/external/glfw/src -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/glfw/include  -g -fPIC   -Wall -o CMakeFiles/glfw.dir/posix_thread.c.o   -c /home/teja/software/libigl/external/glfw/src/posix_thread.c",
+  "file": "/home/teja/software/libigl/external/glfw/src/posix_thread.c"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/glfw/src",
+  "command": "/usr/bin/cc -D_GLFW_USE_CONFIG_H -I/home/teja/MeshSegmentation/test/glfw/src -I/home/teja/software/libigl/external/glfw/src -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/glfw/include  -g -fPIC   -Wall -o CMakeFiles/glfw.dir/glx_context.c.o   -c /home/teja/software/libigl/external/glfw/src/glx_context.c",
+  "file": "/home/teja/software/libigl/external/glfw/src/glx_context.c"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/glfw/src",
+  "command": "/usr/bin/cc -D_GLFW_USE_CONFIG_H -I/home/teja/MeshSegmentation/test/glfw/src -I/home/teja/software/libigl/external/glfw/src -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/glfw/include  -g -fPIC   -Wall -o CMakeFiles/glfw.dir/egl_context.c.o   -c /home/teja/software/libigl/external/glfw/src/egl_context.c",
+  "file": "/home/teja/software/libigl/external/glfw/src/egl_context.c"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/glfw/src",
+  "command": "/usr/bin/cc -D_GLFW_USE_CONFIG_H -I/home/teja/MeshSegmentation/test/glfw/src -I/home/teja/software/libigl/external/glfw/src -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/glfw/include  -g -fPIC   -Wall -o CMakeFiles/glfw.dir/osmesa_context.c.o   -c /home/teja/software/libigl/external/glfw/src/osmesa_context.c",
+  "file": "/home/teja/software/libigl/external/glfw/src/osmesa_context.c"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/glfw/src",
+  "command": "/usr/bin/cc -D_GLFW_USE_CONFIG_H -I/home/teja/MeshSegmentation/test/glfw/src -I/home/teja/software/libigl/external/glfw/src -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include -I/home/teja/software/libigl/external/glfw/include  -g -fPIC   -Wall -o CMakeFiles/glfw.dir/linux_joystick.c.o   -c /home/teja/software/libigl/external/glfw/src/linux_joystick.c",
+  "file": "/home/teja/software/libigl/external/glfw/src/linux_joystick.c"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/stb_image",
+  "command": "/usr/bin/c++   -I/home/teja/MeshSegmentation/test/stb_image -I/home/teja/software/libigl/external/stb_image -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include   -std=c++11 -Wall -O0 -ggdb -I/home/teja/software/libigl/include/ -fvisibility=hidden   -o CMakeFiles/igl_stb_image.dir/igl_stb_image.cpp.o -c /home/teja/software/libigl/external/stb_image/igl_stb_image.cpp",
+  "file": "/home/teja/software/libigl/external/stb_image/igl_stb_image.cpp"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/tetgen",
+  "command": "/usr/bin/c++  -DTETLIBRARY -I/home/teja/MeshSegmentation/test/tetgen -I/home/teja/software/libigl/external/tetgen -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include   -std=c++11 -Wall -O0 -ggdb -I/home/teja/software/libigl/include/   -o CMakeFiles/tetgen.dir/tetgen.cxx.o -c /home/teja/software/libigl/external/tetgen/tetgen.cxx",
+  "file": "/home/teja/software/libigl/external/tetgen/tetgen.cxx"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/tetgen",
+  "command": "/usr/bin/c++  -DTETLIBRARY -I/home/teja/MeshSegmentation/test/tetgen -I/home/teja/software/libigl/external/tetgen -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include   -std=c++11 -Wall -O0 -ggdb -I/home/teja/software/libigl/include/   -o CMakeFiles/tetgen.dir/predicates.cxx.o -c /home/teja/software/libigl/external/tetgen/predicates.cxx",
+  "file": "/home/teja/software/libigl/external/tetgen/predicates.cxx"
+},
+{
+  "directory": "/home/teja/MeshSegmentation/test/triangle",
+  "command": "/usr/bin/cc -DANSI_DECLARATORS -DTRILIBRARY -I/home/teja/MeshSegmentation/test/triangle -I/home/teja/software/libigl/external/triangle -I/home/teja/MeshSegmentation/src -I/usr/include/eigen3 -I/home/teja/software/libigl/external/glad/include  -g   -o CMakeFiles/triangle.dir/triangle.c.o   -c /home/teja/software/libigl/external/triangle/triangle.c",
+  "file": "/home/teja/software/libigl/external/triangle/triangle.c"
+}
+]
